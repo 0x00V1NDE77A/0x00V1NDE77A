@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Merg</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A Cyber Security, Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **Rust**
